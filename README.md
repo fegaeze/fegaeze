@@ -1,4 +1,4 @@
-### 👋 Hi there... Welcome!!!         
+### 👋🏾 Hi there... Welcome!!!         
 <hr/>
 
 &nbsp;        
@@ -17,7 +17,7 @@ To make this process easy for you, I've gone ahead to group my projects into "or
 <hr/>
 
 &nbsp;       
-😄 Pronouns: She/Her      
+👩🏾‍ Pronouns: She/Her      
 📫 How to reach me: fegaeze@gmail.com      
-💪 Career Goal: Research Engineer working on experimental technology      
+💪🏾 Career Goal: Research Engineer working on experimental technology      
 ⚡ Fun fact: I enjoy Chinese Donghua a little too much. Check out [`Douluo Dalu`](https://www.youtube.com/watch?v=sry61pny9J0&list=PL2iQPHlA1Bhwlq38FrUJdZ2t0Q9DKc5KB&ab_channel=%E8%85%BE%E8%AE%AF%E8%A7%86%E9%A2%91)!!!      
